@@ -28,6 +28,22 @@ It combines advanced machine learning (BERT, T5), time series forecasting (Proph
 - **Documentation & Reports:** Everything you need for rapid deployment or academic submission.
 
 ---
+## Execution Steps
+
+- **Use Command Prompt or PowerShell.
+- ** python -m venv venv
+- **venv\Scripts\activate
+- **pip install --upgrade pip
+- **pip install -r requirements.txt
+- **python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords'); nltk.download('wordnet'); nltk.download('omw-1.4')"
+- **python -m spacy download en_core_web_sm
+- **python data_preprocessing.py
+- **python sentiment_classification_bert.py
+- **python text_summarization.py
+- **python predictive_insights.py
+-  **streamlit run streamlit_app.py
+
+
 
 ## 💡 Technologies Used
 
