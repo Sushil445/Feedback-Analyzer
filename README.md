@@ -63,6 +63,8 @@ customer-feedback-analysis/
 └── README.md                                   # This file
 ```
 
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -327,14 +329,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Streamlit for the web framework
 - The open-source community
 
-## 📧 Contact
 
-For questions or issues, please open an issue on GitHub.
-
----
-
-*
-
----
 
 
