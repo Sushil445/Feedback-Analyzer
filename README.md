@@ -63,7 +63,8 @@ customer-feedback-analysis/
 └── README.md                                   # This file
 ```
 
-
+## Screenshots
+![image alt](https://github.com/Sushil445/Feedback-Analyzer/blob/02d2451629b6c800840c7ae75ec8fb168610057d/Screenshots/1.png)
 
 ## 🚀 Getting Started
 
