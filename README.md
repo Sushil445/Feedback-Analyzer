@@ -20,10 +20,7 @@ It combines advanced machine learning (BERT, T5), time series forecasting (Proph
 - **Predictive Analytics:** Forecasts customer satisfaction trends and pinpoints recurring issues.
 - **Deployment:** Interactive Streamlit web app for uploading, analyzing, and visualizing reports.
 - **Synthesized Dataset:** 1,200+ realistic feedback records included for demo/testing.
-- 
-# AI-Powered Customer Feedback Analysis System
 
-A comprehensive machine learning project for analyzing customer feedback using state-of-the-art NLP models including BERT, T5, and Facebook Prophet.
 
 ## 📋 Project Overview
 
