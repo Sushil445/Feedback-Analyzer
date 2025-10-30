@@ -63,7 +63,7 @@ customer-feedback-analysis/
 └── README.md                                   # This file
 ```
 
-## Screenshots
+## <img src="https://img.icons8.com/clouds/100/000000/camera.png" alt="Camera Icon" width="100"/> Screenshots
 ![image alt](https://github.com/Sushil445/Feedback-Analyzer/blob/02d2451629b6c800840c7ae75ec8fb168610057d/Screenshots/1.png)
 ![image alt](https://github.com/Sushil445/Feedback-Analyzer/blob/cd32d4143f9000efef2c626addbd23a5e702407e/Screenshots/2.png)
 
